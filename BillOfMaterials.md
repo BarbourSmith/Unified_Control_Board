@@ -3,4 +3,28 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |Spindle Control Board|1|$35.00||
-|Total: |1|$35.00| |
+|ESP32-S3-WROOM-1-N8R2 module|2|$0.00||
+|MP6541A 3-phase BLDC driver (TQFN-26 6x6)|2|$0.00||
+|DRV8876PWPR H-bridge motor driver (HTSSOP-16)|4|$0.00||
+|TCA9546A I2C mux (TSSOP-16)|1|$0.00||
+|ZDSD01GLGEAG 1 Gbit SD NAND (LGA-8 6x8)|1|$0.00||
+|AP64350SP-13 buck converter (SO-8EP)|1|$0.00||
+|KH-TYPE-C-16P USB-C receptacle|2|$0.00||
+|JST B02B-PASK 2-pin PA header|4|$0.00||
+|JST B04B-PASK 4-pin PA header|4|$0.00||
+|TSA002A3512A02 tactile switch|3|$0.00||
+|IR12-21C/TR8 IR emitter|1|$0.00||
+|PT12-21C/TR8 IR phototransistor|1|$0.00||
+|0402 chip resistor (various values)|55|$0.00||
+|0402 MLCC capacitor (various values)|16|$0.00||
+|0603 chip resistor (various values)|2|$0.00||
+|0603 MLCC capacitor (various values)|23|$0.00||
+|0805 MLCC capacitor (various values)|24|$0.00||
+|0603 indicator LED|3|$0.00||
+|22 uF SMD aluminium electrolytic, 6.3 mm|4|$0.00||
+|680 uF SMD aluminium electrolytic, 10 mm|2|$0.00||
+|220 uF radial aluminium electrolytic, 8 mm|2|$0.00||
+|SS14 / SS36 Schottky diode (SMA)|3|$0.00||
+|SMCJ24A TVS diode (SMC)|1|$0.00||
+|4.7 uH power inductor, 4x4 mm|1|$0.00||
+|Total: |163|$35.00| |
