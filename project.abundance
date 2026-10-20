@@ -21,7 +21,7 @@
     {
       "atomType": "Molecule",
       "x": 0.4,
-      "y": 0.5,
+      "y": 0.4,
       "uniqueID": "id-4",
       "name": "Unified Control Board",
       "topLevel": false,
